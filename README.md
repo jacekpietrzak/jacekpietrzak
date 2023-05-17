@@ -1,5 +1,22 @@
+<div>
 <h1 align="center">Hi 👋, I'm Jacek</h1>
 <h3 align="center">A passionate full-stack developer from Poland</h3>
+  <div id="badges" align="center">
+    <a href="https://linkedin.com/in/pietrzakjacek" target="blank">
+      <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="pietrzakjacek"/>
+    </a>
+    <a href="https://fb.com/jacekpietrzak" target="blank">
+      <img align="center" src="https://img.shields.io/badge/FaceBook-059?logo=facebook&logoColor=white&style=for-the-badge" alt="jacekpietrzak" />
+    </a>
+    <a href="https://instagram.com/jacekpietrzak" target="blank">
+      <img align="center" src="https://img.shields.io/badge/Instagram-920?logo=instagram&logoColor=white&style=for-the-badge" alt="jacekpietrzak" />
+    </a>
+  </div>
+</div>
+
+---
+
+### :bowtie: About Me:
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -70,14 +87,8 @@
 </a>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/jacekpietrzak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jacekpietrzak" /></a></p><br><br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pietrzakjacek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pietrzakjacek" height="30" width="40" /></a>
-<a href="https://fb.com/jacekpietrzak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jacekpietrzak" height="30" width="40" /></a>
-<a href="https://instagram.com/jacekpietrzak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jacekpietrzak" height="30" width="40" /></a>
-<a href="https://www.behance.net/jacekpietrzak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jacekpietrzak" height="30" width="40" /></a>
+<p>
+  <a href="https://www.buymeacoffee.com/jacekpietrzak"> 
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jacekpietrzak" />
+  </a>
 </p>
-
-<a href="https://linkedin.com/in/pietrzakjacek" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="pietrzakjacek"  /></a>
