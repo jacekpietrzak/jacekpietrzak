@@ -79,3 +79,5 @@
 <a href="https://instagram.com/jacekpietrzak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jacekpietrzak" height="30" width="40" /></a>
 <a href="https://www.behance.net/jacekpietrzak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jacekpietrzak" height="30" width="40" /></a>
 </p>
+
+<a href="https://linkedin.com/in/pietrzakjacek" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="pietrzakjacek"  /></a>
