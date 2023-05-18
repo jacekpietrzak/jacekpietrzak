@@ -96,4 +96,4 @@ A passionate junior Full-Stack Developer from Poland.
   </a>
 </div> -->
 
-![](https://komarev.com/ghpvc/?username=jacekpietrzak&color=lightgrey&style=for-the-badge)
+[![Views](https://komarev.com/ghpvc/?username=jacekpietrzak&color=lightgrey&style=for-the-badge)](#)
