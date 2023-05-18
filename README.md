@@ -1,21 +1,16 @@
-<div>
-<h1 align="center">Hi 👋, I'm Jacek</h1>
-  <div id="badges" align="center">
-    <a href="https://linkedin.com/in/pietrzakjacek" target="blank">
-      <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="pietrzakjacek"/>
-    </a>
-    <a href="https://fb.com/jacekpietrzak" target="blank">
-      <img align="center" src="https://img.shields.io/badge/FaceBook-059?logo=facebook&logoColor=white&style=for-the-badge" alt="jacekpietrzak" />
-    </a>
-    <a href="https://instagram.com/jacekpietrzak" target="blank">
-      <img align="center" src="https://img.shields.io/badge/Instagram-920?logo=instagram&logoColor=white&style=for-the-badge" alt="jacekpietrzak" />
-    </a>
-  </div>
-</div>
+<center>
+
+# Hi 👋, I'm Jacek
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/pietrzakjacek/)
+[![Facebook](https://img.shields.io/badge/FaceBook-059?logo=facebook&logoColor=white&style=for-the-badge)](https://fb.com/jacekpietrzak)
+[![Instagram](https://img.shields.io/badge/Instagram-920?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/jacekpietrzak)
+
+</center>
 
 ---
 
-## 👨‍💻 About Me:
+### 👨‍💻 About Me:
 
 A passionate junior Full-Stack Developer from Poland.
 
@@ -83,8 +78,8 @@ A passionate junior Full-Stack Developer from Poland.
 
 ### 📈 My Stats:
 
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=jacekpietrzak&show_icons=true&theme=onedark&hide_border=true&hide_rank=true&count_private=true" />
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacekpietrzak&layout=compact&theme=onedark&hide_border=true" />
+![Stats](https://github-readme-stats.vercel.app/api?username=jacekpietrzak&show_icons=true&theme=onedark&hide_border=true&hide_rank=true&count_private=true)
+![Top-Lands](https://github-readme-stats.vercel.app/api/top-langs/?username=jacekpietrzak&layout=compact&theme=onedark&hide_border=true)
 
 ---
 
