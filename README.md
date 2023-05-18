@@ -27,7 +27,8 @@ A passionate junior Full-Stack Developer from Poland.
 #### Programming Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) -->
 
 #### Frontend Development:
 
@@ -46,22 +47,25 @@ A passionate junior Full-Stack Developer from Poland.
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
-[![My Skills](https://skillicons.dev/icons?i=nest)](https://nestjs.com/)
 
-#### Mobile App Development:
+<!-- [![My Skills](https://skillicons.dev/icons?i=nest)](https://nestjs.com/) -->
 
-[![My Skills](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
+<!-- #### Mobile App Development:
+
+[![My Skills](https://skillicons.dev/icons?i=react)](https://reactnative.dev/) -->
 
 #### Database:
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org)
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org) -->
 
 #### Backend as a Service:
 
 [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
-[![My Skills](https://skillicons.dev/icons?i=heroku)](https://firebase.google.com/)
 [![My Skills](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/)
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=heroku)](https://www.heroku.com/) -->
 
 #### Testing:
 
