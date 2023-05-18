@@ -19,7 +19,7 @@
 
 A passionate junior Full-Stack Developer from Poland.
 
-- 🔭 I'm searching for a job as a Full-Stack Developer.
+- 🔭 I'm open for a position as a Full-Stack Developer.
 - 🌱 Exploring TypeScript, NestJS, PostgreSQL and React Native.
 - ⚡ In my free time, I focus on expanding my current skill set ⚛️.
   When not in front of a computer, I concentrate on my health 🤸.
@@ -83,8 +83,8 @@ A passionate junior Full-Stack Developer from Poland.
 
 ### 📈 My Stats:
 
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=jacekpietrzak&show_icons=true&theme=onedark&hide_border=true&hide_rank=true&count_private=true" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacekpietrzak&layout=compact&theme=onedark&hide_border=true&card_width=329" />
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=jacekpietrzak&show_icons=true&theme=onedark&hide_border=true&hide_rank=true&count_private=true" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacekpietrzak&layout=compact&theme=onedark&hide_border=true" />
 
 ---
 
