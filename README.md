@@ -14,11 +14,23 @@
 
 A passionate junior Full-Stack Developer from Poland.
 
-- 🔭 I'm open for a position as a Full-Stack Developer.
+- 🔭 I am seeking new opportunities and challenges as a Full-Stack Developer.
 - 🌱 Exploring TypeScript, NestJS, PostgreSQL and React Native.
 - ⚡ In my free time, I focus on expanding my current skill set ⚛️.
   When not in front of a computer, I concentrate on my health 🤸.
 - 📫 You can reach me here => [![Linkedin Badge](https://img.shields.io/badge/-pietrzakjacek-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/pietrzakjacek)
+
+---
+
+### ⚗️ Projects:
+
+- 💰 [Wallet - Budget app](https://magenta-lokum-0cc512.netlify.app/login) | **Group Project**: React, Redux, Sass, Emotion, Material UI, Axios, Mongo DB, Netlify
+- 📹 [Filmoteka](https://github.com/RafallPawlak/filmoteka-group-3) | **Group Project**: HTML, SCSS, Javascript, Parcel, Responsive design, Themoviedb API, Local storage used for saving lists of watched and queue movies.
+- 🍦 [Ice Cream Shop](https://jacekpietrzak.github.io/goit-icecream-group-5/) | **Group Project**: HTML, SCSS, Responsive design
+- 📖 [Phonebook](https://jacekpietrzak.github.io/goit-react-hw-08-phonebook) | React, Redux, Styled Components, Material UI, Axios, Prop Types
+- 🔎 [Image Fidner](https://jacekpietrzak.github.io/goit-react-hw-04-images/) | React, Axios, Notiflix, Prop Types, Pixabay API
+- 🎥 [Movie search](https://jacekpietrzak.github.io/goit-react-hw-05-movies/) | React, Styled Components, Axios, Prop Types
+- 🕸️ [WebStudio](https://jacekpietrzak.github.io/goit-markup-hw-08/) | Html, SCSS, Responsive design
 
 ---
 
