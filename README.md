@@ -22,7 +22,7 @@ A passionate junior Full-Stack Developer from Poland.
 
 ---
 
-### ⚗️ Projects:
+### ⚗️ My projects:
 
 - 💰 [Wallet - Budget app](https://magenta-lokum-0cc512.netlify.app/login)
   - **Group Project**: React, Redux, Sass, Emotion, Material UI, Axios, Mongo DB, Netlify.  
