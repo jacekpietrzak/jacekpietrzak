@@ -24,9 +24,14 @@ A passionate junior Full-Stack Developer from Poland.
 
 ### ⚗️ Projects:
 
-- 💰 [Wallet - Budget app](https://magenta-lokum-0cc512.netlify.app/login) | **Group Project**: React, Redux, Sass, Emotion, Material UI, Axios, Mongo DB, Netlify
-- 📹 [Filmoteka](https://github.com/RafallPawlak/filmoteka-group-3) | **Group Project**: HTML, SCSS, Javascript, Parcel, Responsive design, Themoviedb API, Local storage used for saving lists of watched and queue movies.
-- 🍦 [Ice Cream Shop](https://jacekpietrzak.github.io/goit-icecream-group-5/) | **Group Project**: HTML, SCSS, Responsive design
+- 💰 [Wallet - Budget app](https://magenta-lokum-0cc512.netlify.app/login)
+  - **Group Project**: React, Redux, Sass, Emotion, Material UI, Axios, Mongo DB, Netlify.  
+    Fully responsive Budgeting app
+- 📹 [Filmoteka](https://github.com/RafallPawlak/filmoteka-group-3)
+  - **Group Project**: HTML, SCSS, Javascript, Parcel, Responsive design, Themoviedb API.  
+    Web app for searching movies and making private lists of watched and queued movies. All data is saved in Local storage.
+- 🍦 [Ice Cream Shop](https://jacekpietrzak.github.io/goit-icecream-group-5/)
+  - **Group Project**: HTML, SCSS, Responsive design
 - 📖 [Phonebook](https://jacekpietrzak.github.io/goit-react-hw-08-phonebook) | React, Redux, Styled Components, Material UI, Axios, Prop Types
 - 🔎 [Image Fidner](https://jacekpietrzak.github.io/goit-react-hw-04-images/) | React, Axios, Notiflix, Prop Types, Pixabay API
 - 🎥 [Movie search](https://jacekpietrzak.github.io/goit-react-hw-05-movies/) | React, Styled Components, Axios, Prop Types
