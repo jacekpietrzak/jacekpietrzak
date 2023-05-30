@@ -2,11 +2,11 @@
 
 # Hello 👋, my name is Jacek.
 
+</center>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/pietrzakjacek/)
 [![Facebook](https://img.shields.io/badge/FaceBook-059?logo=facebook&logoColor=white&style=for-the-badge)](https://fb.com/jacekpietrzak)
 [![Instagram](https://img.shields.io/badge/Instagram-920?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/jacekpietrzak)
-
-</center>
 
 ---
 
