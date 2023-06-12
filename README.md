@@ -98,7 +98,7 @@ A passionate junior Full-Stack Developer from Poland.
 [![My Skills](https://skillicons.dev/icons?i=ps)](https://www.photoshop.com/en)
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://postman.com)
 
----
+<!-- ---
 
 ### 📈 My Stats:
 
@@ -106,7 +106,7 @@ A passionate junior Full-Stack Developer from Poland.
 ![Top-Lands](https://github-readme-stats.vercel.app/api/top-langs/?username=jacekpietrzak&layout=compact&theme=onedark&hide_border=true)
 
 ---
-
+ -->
 <!-- ### Support:
 
 <div>
