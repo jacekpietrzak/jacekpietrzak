@@ -86,6 +86,7 @@ A passionate junior Full-Stack Developer from Poland.
 
 [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 [![My Skills](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/)
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://www.vercel.com/)
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=heroku)](https://www.heroku.com/) -->
 
