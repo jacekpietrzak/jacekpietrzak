@@ -53,6 +53,7 @@ A passionate junior Full-Stack Developer from Poland.
 #### Frontend Development:
 
 [![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/)
 [![My Skills](https://skillicons.dev/icons?i=redux)](https://redux-toolkit.js.org/)
