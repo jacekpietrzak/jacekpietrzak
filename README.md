@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me:
 
-A passionate junior Full-Stack Developer from Poland.
+A passionate Full-Stack Developer from Poland.
 
 - 🔭 I am seeking new opportunities and challenges as a Full-Stack Developer.
 - 🌱 Exploring TypeScript, NestJS, PostgreSQL and React Native.
